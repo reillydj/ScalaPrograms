@@ -77,6 +77,7 @@ class FunSetSuite extends FunSuite {
     val s1 = singletonSet(1)
     val s2 = singletonSet(2)
     val s3 = singletonSet(3)
+    val s4 = singletonSet(4)
   }
 
   /**
@@ -109,4 +110,33 @@ class FunSetSuite extends FunSuite {
       assert(!contains(s, 3), "Union 3")
     }
   }
+
+  test("forall x in set {1, 2, 3, 4}") {
+
+    new TestSets {
+      val s = union(union(union(s1, s2), s3), s4)
+      assert(contains(s, 1), "Union 1")
+      assert(forall(s, (x:Int) => x < 5), "Less than 5")
+      assert(forall(s, (x:Int) => x > -1), "Greater than -1")
+    }
+  }
+
+  test("element exists in set {1, 2, 3, 4}") {
+    new TestSets {
+      val s = union(union(union(s1, s2), s3), s4)
+      assert(exists(s, (x:Int) => x == 3), "3 in S")
+      assert(!exists(s, (x:Int) => x == 5), "5 not in S")
+    }
+  }
+
+  test("map x+1 to {1, 2, 3, 4}") {
+    new TestSets {
+      val s = union(union(union(s1, s2), s3), s4)
+      val sPlus = map(s, (x:Int) => x + 1)
+      printSet(s)
+      printSet(sPlus)
+      assert(contains(sPlus, 5), "Add 1 to 4")
+    }
+  }
+
 }
