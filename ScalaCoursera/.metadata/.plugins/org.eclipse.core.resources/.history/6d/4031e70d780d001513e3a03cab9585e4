@@ -1,0 +1,24 @@
+
+
+/**
+ * @author reillydj
+ */
+object Search {
+  
+  def main(args: Array[String]) {
+      println(search(List(1, 2, 3, 4), 3)
+  }
+  
+  def search(arr: List[Int], item: Int): Boolean = { 
+   
+    if (arr.isEmpty) false
+    else {    
+      val mid = (arr.length) / 2.0
+      if (arr[mid] == item) true
+      else {
+        if (arr[mid] > item) search(arr slice(0, mid), item)
+        else search(arr slice(mid, arr.length), item)
+      }
+    }
+  }
+}

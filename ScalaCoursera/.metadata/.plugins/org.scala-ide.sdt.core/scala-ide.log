@@ -1,0 +1,170 @@
+2015-06-06 16:20:36,178  WARN [ModalContext] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-06-06 16:20:36,181  WARN [ModalContext] - ScalaProject - Project hello-project runs on platform default installation.
+2015-06-06 16:20:36,558  WARN [Worker-3] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-06-06 16:20:36,560  WARN [Worker-3] - ScalaProject - Project hello-project runs on platform default installation.
+2015-06-06 16:20:58,704  WARN [Worker-3] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-06-06 16:20:58,704  WARN [Worker-3] - ScalaProject - Project hello-project runs on platform default installation.
+2015-06-06 16:20:58,732  WARN [Worker-3] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-06-06 16:20:58,732  WARN [Worker-3] - ScalaProject - Project hello-project runs on platform default installation.
+2015-06-06 16:21:46,127  WARN [main] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-06-06 16:21:46,128  WARN [main] - ScalaProject - Project hello-project runs on platform default installation.
+2015-06-06 16:22:25,753  WARN [Worker-11] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-06-06 16:22:25,754  WARN [Worker-11] - ScalaProject - Project hello-project runs on platform default installation.
+2015-06-06 16:22:25,907  WARN [Worker-11] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-06-06 16:22:25,907  WARN [Worker-11] - ScalaProject - Project hello-project runs on platform default installation.
+2015-06-06 16:22:25,925  WARN [Worker-11] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-06-06 16:22:25,925  WARN [Worker-11] - ScalaProject - Project hello-project runs on platform default installation.
+2015-06-06 16:23:11,743  WARN [Worker-0] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-06-06 16:23:11,743  WARN [Worker-0] - ScalaProject - Project hello-project runs on platform default installation.
+2015-06-06 16:23:11,767  WARN [Worker-0] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-06-06 16:23:11,767  WARN [Worker-0] - ScalaProject - Project hello-project runs on platform default installation.
+2015-06-06 16:23:11,784  WARN [Worker-0] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-06-06 16:23:11,784  WARN [Worker-0] - ScalaProject - Project hello-project runs on platform default installation.
+2015-06-06 16:24:29,398  WARN [Worker-2] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-06-06 16:24:29,403  WARN [Worker-2] - ScalaProject - Project hello-project runs on platform default installation.
+2015-06-06 16:25:02,630  WARN [Worker-5] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-06-06 16:25:02,630  WARN [Worker-5] - ScalaProject - Project hello-project runs on platform default installation.
+2015-06-06 16:25:02,683  WARN [Worker-5] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-06-06 16:25:02,684  WARN [Worker-5] - ScalaProject - Project hello-project runs on platform default installation.
+2015-06-06 16:25:02,834  WARN [Worker-5] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-06-06 16:25:02,834  WARN [Worker-5] - ScalaProject - Project hello-project runs on platform default installation.
+2015-06-06 16:25:02,861  WARN [Worker-5] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-06-06 16:25:02,861  WARN [Worker-5] - ScalaProject - Project hello-project runs on platform default installation.
+2015-06-06 16:25:18,729  WARN [main] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-06-06 16:25:18,729  WARN [main] - ScalaProject - Project hello-project runs on platform default installation.
+2015-06-06 16:25:21,452  WARN [Worker-3] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-06-06 16:25:21,453  WARN [Worker-3] - ScalaProject - Project hello-project runs on platform default installation.
+2015-06-06 16:25:21,481  WARN [Worker-3] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-06-06 16:25:21,481  WARN [Worker-3] - ScalaProject - Project hello-project runs on platform default installation.
+2015-06-06 16:25:21,882  WARN [Java indexing] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-06-06 16:25:21,883  WARN [Java indexing] - ScalaProject - Project hello-project runs on platform default installation.
+2015-06-06 16:25:25,090  WARN [Worker-3] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-06-06 16:25:25,090  WARN [Worker-3] - ScalaProject - Project hello-project runs on platform default installation.
+2015-06-06 16:25:26,121  WARN [Worker-0] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-06-06 16:25:26,122  WARN [Worker-0] - ScalaProject - Project hello-project runs on platform default installation.
+2015-06-06 16:25:26,150  WARN [Worker-0] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-06-06 16:25:26,150  WARN [Worker-0] - ScalaProject - Project hello-project runs on platform default installation.
+2015-06-06 16:25:28,076  WARN [Worker-0] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-06-06 16:25:28,076  WARN [Worker-0] - ScalaProject - Project hello-project runs on platform default installation.
+2015-06-06 16:25:43,912 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 16:25:43,919 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 16:25:43,921 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 17:12:59,675  WARN [ModalContext] - ScalaProject - Project recfun has platform default sourceLevel.
+2015-06-06 17:12:59,676  WARN [ModalContext] - ScalaProject - Project recfun runs on platform default installation.
+2015-06-06 17:12:59,679  WARN [ModalContext] - ScalaProject - Project recfun has platform default sourceLevel.
+2015-06-06 17:12:59,679  WARN [ModalContext] - ScalaProject - Project recfun runs on platform default installation.
+2015-06-06 17:12:59,923  WARN [ModalContext] - ScalaProject - Project recfun has platform default sourceLevel.
+2015-06-06 17:12:59,925  WARN [ModalContext] - ScalaProject - Project recfun runs on platform default installation.
+2015-06-06 17:13:00,370  WARN [Worker-13] - ScalaProject - Project recfun has platform default sourceLevel.
+2015-06-06 17:13:00,371  WARN [Worker-13] - ScalaProject - Project recfun runs on platform default installation.
+2015-06-06 17:13:00,527  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for recfun, setting default to 2.11.
+2015-06-06 17:13:00,528  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for recfun, setting default to 2.11.
+2015-06-06 17:16:12,621 ERROR [Worker-15] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-06-06 17:16:12,621 ERROR [Worker-15] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-06-06 17:16:12,621 ERROR [Worker-15] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-06-06 17:27:42,150 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 17:27:42,156 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 17:27:42,157 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 17:43:08,148 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 17:43:08,148 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 17:43:08,149 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 17:43:08,149 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 17:43:08,150 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 17:43:08,150 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 17:43:08,150 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 17:43:08,150 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 17:43:08,151 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 17:43:08,152 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 17:43:08,152 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 17:43:08,152 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 17:43:08,152 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 17:43:08,153 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 17:43:08,153 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 17:43:08,154 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 17:43:08,154 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 17:43:08,154 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 17:43:08,154 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 17:43:08,154 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 17:43:08,154 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 17:43:08,154 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 17:43:08,155 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 17:43:08,155 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 17:43:08,155 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 17:43:08,155 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 17:43:08,155 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 17:43:08,155 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 17:43:08,156 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 17:43:27,984 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 17:43:27,984 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 17:43:27,985 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 19:33:55,352 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 19:33:55,352 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 19:33:55,352 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 19:33:55,352 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 19:33:55,353 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 19:33:55,353 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 19:33:55,353 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 19:33:55,353 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 19:33:55,353 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 19:33:55,353 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 19:33:55,353 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 19:33:55,353 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 19:33:55,354 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 19:33:55,354 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 19:34:38,888 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 19:34:38,888 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 19:34:38,889 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 21:49:06,587  WARN [Worker-74] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-06-06 21:49:06,588  WARN [Worker-74] - ScalaProject - Project hello-project runs on platform default installation.
+2015-06-06 21:49:06,602  WARN [Worker-74] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-06-06 21:49:06,602  WARN [Worker-74] - ScalaProject - Project hello-project runs on platform default installation.
+2015-06-06 21:49:07,515  WARN [Worker-74] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-06-06 21:49:07,515  WARN [Worker-74] - ScalaProject - Project hello-project runs on platform default installation.
+2015-06-06 21:50:12,708  WARN [Worker-2] - ScalaProject - Project hello-project has platform default sourceLevel.
+2015-06-06 21:50:12,710  WARN [Worker-2] - ScalaProject - Project hello-project runs on platform default installation.
+2015-06-06 21:50:12,722  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for recfun, setting default to 2.11.
+2015-06-06 21:50:12,726  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for recfun, setting default to 2.11.
+2015-06-06 21:50:20,701  WARN [ModalContext] - ScalaProject - Project BinarySearch has platform default sourceLevel.
+2015-06-06 21:50:20,701  WARN [ModalContext] - ScalaProject - Project BinarySearch runs on platform default installation.
+2015-06-06 21:50:20,995  WARN [Worker-1] - ScalaProject - Project BinarySearch has platform default sourceLevel.
+2015-06-06 21:50:20,995  WARN [Worker-1] - ScalaProject - Project BinarySearch runs on platform default installation.
+2015-06-06 21:50:21,184  WARN [Worker-1] - ScalaProject - Project BinarySearch has platform default sourceLevel.
+2015-06-06 21:50:21,184  WARN [Worker-1] - ScalaProject - Project BinarySearch runs on platform default installation.
+2015-06-06 21:50:21,212  WARN [Worker-1] - ScalaProject - Project BinarySearch has platform default sourceLevel.
+2015-06-06 21:50:21,213  WARN [Worker-1] - ScalaProject - Project BinarySearch runs on platform default installation.
+2015-06-06 21:51:26,645  WARN [main] - ScalaProject - Project BinarySearch has platform default sourceLevel.
+2015-06-06 21:51:26,645  WARN [main] - ScalaProject - Project BinarySearch runs on platform default installation.
+2015-06-06 21:51:27,633 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 21:51:27,655 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 21:51:27,661 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 21:51:27,665 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 21:51:27,673 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 21:51:27,684 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 21:51:27,719 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 21:51:27,965 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 21:51:28,486 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-06 21:51:29,032  WARN [Worker-2] - ScalaProject - Project BinarySearch has platform default sourceLevel.
+2015-06-06 21:51:29,032  WARN [Worker-2] - ScalaProject - Project BinarySearch runs on platform default installation.
+2015-06-06 21:51:29,190  WARN [Worker-2] - ScalaProject - Project BinarySearch has platform default sourceLevel.
+2015-06-06 21:51:29,190  WARN [Worker-2] - ScalaProject - Project BinarySearch runs on platform default installation.
+2015-06-06 21:51:29,439  WARN [Java indexing] - ScalaProject - Project BinarySearch has platform default sourceLevel.
+2015-06-06 21:51:29,439  WARN [Java indexing] - ScalaProject - Project BinarySearch runs on platform default installation.
+2015-06-06 21:51:32,025  WARN [Worker-2] - ScalaProject - Project BinarySearch has platform default sourceLevel.
+2015-06-06 21:51:32,026  WARN [Worker-2] - ScalaProject - Project BinarySearch runs on platform default installation.
+2015-06-06 21:51:32,192  WARN [Worker-0] - ScalaProject - Project BinarySearch has platform default sourceLevel.
+2015-06-06 21:51:32,192  WARN [Worker-0] - ScalaProject - Project BinarySearch runs on platform default installation.
+2015-06-06 21:51:32,218  WARN [Worker-0] - ScalaProject - Project BinarySearch has platform default sourceLevel.
+2015-06-06 21:51:32,218  WARN [Worker-0] - ScalaProject - Project BinarySearch runs on platform default installation.
+2015-06-06 21:51:33,928  WARN [Worker-0] - ScalaProject - Project BinarySearch has platform default sourceLevel.
+2015-06-06 21:51:33,928  WARN [Worker-0] - ScalaProject - Project BinarySearch runs on platform default installation.
+2015-06-06 22:00:20,102 ERROR [Worker-2] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-06-06 22:00:20,102 ERROR [Worker-2] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-06-06 22:00:20,102 ERROR [Worker-2] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-06-06 22:02:54,223  WARN [Worker-0] - ScalaProject - Project BinarySearch has platform default sourceLevel.
+2015-06-06 22:02:54,224  WARN [Worker-0] - ScalaProject - Project BinarySearch runs on platform default installation.
+2015-06-06 22:02:54,244  WARN [Worker-0] - ScalaProject - Project BinarySearch has platform default sourceLevel.
+2015-06-06 22:02:54,245  WARN [Worker-0] - ScalaProject - Project BinarySearch runs on platform default installation.
+2015-06-07 17:48:18,859  WARN [Worker-30] - ScalaProject - Project BinarySearch has platform default sourceLevel.
+2015-06-07 17:48:18,861  WARN [Worker-30] - ScalaProject - Project BinarySearch runs on platform default installation.
+2015-06-07 17:48:18,918  WARN [Worker-30] - ScalaProject - Project BinarySearch has platform default sourceLevel.
+2015-06-07 17:48:18,918  WARN [Worker-30] - ScalaProject - Project BinarySearch runs on platform default installation.

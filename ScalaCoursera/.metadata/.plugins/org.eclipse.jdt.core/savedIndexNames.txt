@@ -1,0 +1,6 @@
+INDEX VERSION 1.127+/Users/reillydj/Documents/ScalaPrograms/ScalaCoursera/.metadata/.plugins/org.eclipse.jdt.core
+1814655393.index
+774564975.index
+2107016339.index
+1555630975.index
+3707996659.index
