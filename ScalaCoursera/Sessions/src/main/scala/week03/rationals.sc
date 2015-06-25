@@ -8,4 +8,9 @@ object rationals {
   a + a
   a.numer
   a.denom
+
+   
+  def error(msg: String) = throw new Error(msg)
+
+  error("test")
 }
