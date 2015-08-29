@@ -1,4 +1,5 @@
-import week03.Rational
+import week03._
+
 object rationals {
   val x = new Rational(1, 3)
   val y = new Rational(5, 7)
@@ -8,9 +9,7 @@ object rationals {
   a + a
   a.numer
   a.denom
-
-   
+  val test = new NonEmpty(3, new Empty, new Empty)
   def error(msg: String) = throw new Error(msg)
-
   error("test")
 }

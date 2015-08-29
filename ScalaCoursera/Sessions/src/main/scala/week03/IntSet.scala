@@ -3,6 +3,7 @@ package week03
 /**
  * Created by reillydj on 6/14/15.
  */
+
 abstract class IntSet {
   def incl(x: Int): IntSet
   def contains(x: Int): Boolean
