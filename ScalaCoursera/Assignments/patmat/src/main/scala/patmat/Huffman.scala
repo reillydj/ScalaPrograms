@@ -1,3 +1,4 @@
+// Added a comment
 package patmat
 
 import common._
