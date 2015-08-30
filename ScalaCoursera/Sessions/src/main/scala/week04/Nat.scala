@@ -10,7 +10,7 @@ abstract class Nat {
   def successor: Nat = new Succ(this)
   def + (that: Nat): Nat
   def - (that: Nat): Nat
-  def toString: String
+//  def toString: String
 }
 
 object Zero extends Nat {

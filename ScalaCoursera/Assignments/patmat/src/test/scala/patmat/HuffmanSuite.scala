@@ -26,6 +26,12 @@ class HuffmanSuite extends FunSuite {
     }
   }
 
+  test("weight and chars of a leaf") {
+    val leaf = Leaf('a', 2)
+    assert(chars(leaf) === List('a'))
+    assert(weight(leaf) === 2)
+  }
+
   test("string2chars(\"hello, world\")") {
     assert(string2Chars("hello, world") === List('h', 'e', 'l', 'l', 'o', ',', ' ', 'w', 'o', 'r', 'l', 'd'))
   }
