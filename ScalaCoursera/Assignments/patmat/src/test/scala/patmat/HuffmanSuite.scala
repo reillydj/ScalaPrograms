@@ -58,8 +58,15 @@ class HuffmanSuite extends FunSuite {
   }
 
   test("decode and encode a very short text should be identity") {
-    new TestTrees {s
+    new TestTrees {
       assert(decode(t1, encode(t1)("ab".toList)) === "ab".toList)
     }
+  }
+
+  test("merge code tables") {
+    val a = List(('a', List(0, 1)), ('b', List(0)))
+    val b = List(('b', List(1)), ('c', List(0)))
+    val merged = mergeCodeTables(a, b)
+    assert(merged == List(('b',List(0, 1)), ('a',List(0, 1)), ('c',List(0))))
   }
 }
