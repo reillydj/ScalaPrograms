@@ -63,6 +63,18 @@ class HuffmanSuite extends FunSuite {
     }
   }
 
+  test("codebits") {
+    val codeTable = List(('a', List(0, 1)), ('b', List(0)))
+    assert(codeBits(codeTable)('a') == List(0, 1))
+    assert(codeBits(codeTable)('b') == List(0))
+  }
+
+  test("convert tree") {
+    new TestTrees {
+      assert(convert(t2) == List(('b',List(0, 1)), ('d',List(1)), ('a',List(0, 0))))
+    }
+  }
+
   test("merge code tables") {
     val a = List(('a', List(0, 1)), ('b', List(0)))
     val b = List(('b', List(1)), ('c', List(0)))

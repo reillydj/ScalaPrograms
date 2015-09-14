@@ -229,9 +229,12 @@ object Huffman {
    * a valid code tree that can be represented as a code table. Using the code tables of the
    * sub-trees, think of how to build the code table for the entire tree.
    */
-  def convert(tree: CodeTree): CodeTable = tree match {
-    case Leaf(char, _) => List((char, encode(tree)(List(char))))
-    case Fork(left, right, _, _) => mergeCodeTables(convert(left), convert(right))
+  def convert(tree: CodeTree): CodeTable = {
+    def helper(tree: CodeTree, bits: List[Bit]): CodeTable = tree match {
+      case Leaf(char, _) => List((char, bits))
+      case Fork(left, right, _, _) => mergeCodeTables(helper(left, bits ++ List(0)), helper(right, bits ++ List(1)))
+    }
+    helper(tree, List())
   }
 
   /**
