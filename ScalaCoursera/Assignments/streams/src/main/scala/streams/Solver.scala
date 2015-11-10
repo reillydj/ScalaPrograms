@@ -72,7 +72,7 @@ trait Solver extends GameDef {
         (block, history) <- initial
         newNeighbor <- newNeighborsOnly(neighborsWithHistory(block, history), explored)
       } yield newNeighbor
-      from(more, explored ++ (more map { case (block, history) => block })) #::: initial
+      initial #::: from(more, explored ++ (more map { case (block, history) => block }))
     }
   }
 
